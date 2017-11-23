@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="title_activity_main2">Cairo Tour Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--      Restaurant       -->
+
+    <string name="rest1_name">Mandarine</string>
+    <string name="rest1_location">Kasr AlNile,Cairo</string>
+    <string name="rest1_tel">+201223555511</string>
+    <string name="rest2_name">KFC</string>
+    <string name="rest2_location">39 Kasr Al Nile,Cairo</string>
+    <string name="rest2_tel">0223910115</string>
+    <string name="rest3_name"> Crystal</string>
+    <string name="rest3_location">Bab Al Louq,Abdin</string>
+    <string name="rest3_tel">+20112211457</string>
+    <string name="rest4_name"> Sabry</string>
+    <string name="rest4_location">Cairo University,Giza</string>
+    <string name="rest4_tel">+20124544577</string>
+    <string name="rest5_name"> pasqua</string>
+    <string name="rest5_location">Mohamed Mahmoud ,Abdeen,Cairo</string>
+    <string name="rest5_tel">+20104544474</string>
+    <!--               Cafe                -->
+    <string name="cafe1_name">Nile Cafe</string>
+    <string name="cafe1_location">33,Kasr AlNile,Cairo</string>
+    <string name="cafe1_tel">0223910151</string>
+    <string name="cafe2_name">Cafe De Paris</string>
+    <string name="cafe2_location">Bab Al Loug , Abdin ,Cairo</string>
+    <string name="cafe2_tel">0223910115</string>
+    <string name="cafe3_name"> West El-Balad</string>
+    <string name="cafe3_location">B13 Talaat Harb</string>
+    <string name="cafe3_tel">+20112211457</string>
+    <string name="cafe4_name"> Dar El-Odabaa</string>
+    <string name="cafe4_location">Abd El-Qader Hamza,Cairo</string>
+    <string name="cafe4_tel">+20124544577</string>
+    <string name="cafe5_name"> pasqua Cafe</string>
+    <string name="cafe5_location">Mohamed Mahmoud ,Abdeen,Cairo</string>
+    <string name="cafe5_tel">+20104544474</string>
+    <!--                  cinema                    -->
+    <string name="cinema1_name">Cinema Radio</string>
+    <string name="cinema1_location">Qasr Al-Nile,Cairo</string>
+    <string name="cinema1_tel">+201223555511</string>
+    <string name="cinema2_name">Dal</string>
+    <string name="cinema2_location">5 Ibrahim Naguib Cairo</string>
+    <string name="cinema2_tel">0223910151</string>
+    <string name="cinema3_name"> Pigalla Cinema</string>
+    <string name="cinema3_location">Emad Ibrahim Land</string>
+    <string name="cinema3_tel">+20112211457</string>
+    <string name="cinema4_name">Metro Cinema</string>
+    <string name="cinema4_location">Abd El-Qader Hamza,Cairo</string>
+    <string name="cinema4_tel">+20124544577</string>
+    <string name="cinema5_name">  El Hanager</string>
+    <string name="cinema5_location">Mohamed Mokhtar ,Abdeen,Cairo</string>
+    <string name="cinema5_tel">+20104544474</string>
+    <!--                  club                    -->
+    <string name="club1_name">El Zamalek Club</string>
+    <string name="club1_location">El-Zamalek,Cairo</string>
+    <string name="club1_tel">0223910151</string>
+    <string name="club2_name">Lobby Lounge</string>
+    <string name="club2_location">1089 El Nile Corniche ,Cairo</string>
+    <string name="club2_tel">0223910151</string>
+    <string name="club3_name"> El Gezera</string>
+    <string name="club3_location">130 Nile Street</string>
+    <string name="club3_tel">+20112211457</string>
+    <string name="club4_name">Regina Club</string>
+    <string name="club4_location">Abd El-Qader Hamza,Cairo</string>
+    <string name="club4_tel">+20124544577</string>
+    <string name="club5_name"> Stage One</string>
+    <string name="club5_location">Mohamed Mokhtar ,Abdeen,Cairo</string>
+    <string name="club5_tel">+20104544474</string>
+    <!--                  museum                    -->
+    <string name="museum1_name">El-Azhar Mousqe</string>
+    <string name="museum1_location">El-Azhar,ancient-Cairo</string>
+    <string name="museum1_tel">0223910151</string>
+    <string name="museum2_name">Egyption Museum</string>
+    <string name="museum2_location">El-Tahrir Square ,Cairo</string>
+    <string name="museum2_tel">0223910151</string>
+    <string name="museum3_name">Egyption Art</string>
+    <string name="museum3_location">130 Nile Street</string>
+    <string name="museum3_tel">+20112211457</string>
+    <string name="museum4_name">Pyramids</string>
+    <string name="museum4_location">Haram-Giza</string>
+    <string name="museum4_tel">+20124544577</string>
+    <string name="museum5_name"> Umma</string>
+    <string name="museum5_location">Cornad Cairo</string>
+    <string name="museum5_tel">+20104544474</string>
+     
+
+
+</resources>
